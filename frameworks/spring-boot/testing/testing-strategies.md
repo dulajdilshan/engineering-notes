@@ -675,8 +675,16 @@ To operate successfully within a microservices ecosystem, **Contract Testing** (
 
 Finally, this entire strategy is automated within a **CI/CD pipeline** that measures not only test *quantity* (Code Coverage with JaCoCo) but also test *quality* (Mutation Testing with Pitest). Adopting this holistic approach is essential for delivering reliable, secure, and maintainable applications with high confidence.
 
-## Some Good reads:
+## References:
 
-- https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications
-- https://engineering.atspotify.com/2018/01/testing-of-microservices
-- https://mvineetsharma.medium.com/software-testing-the-test-pyramid-building-quality-from-the-ground-up-db6528c3802b
+Here are the URLs for the resources referenced in the previous response:
+
+* https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications
+* https://engineering.atspotify.com/2018/01/testing-of-microservices
+* https://mvineetsharma.medium.com/software-testing-the-test-pyramid-building-quality-from-the-ground-up-db6528c3802b
+* https://docs.spring.io/spring-boot/reference/testing/spring-boot-applications.html
+* https://testcontainers.com/
+* https://cloud.spring.io/spring-cloud-contract/reference/htmlsingle/
+* https://wiremock.org/
+* https://pitest.org/
+* https://www.youtube.com/watch?v=mZjPzlX9YJY
